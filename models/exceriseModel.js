@@ -19,7 +19,7 @@ var ExceriseSchema = new Schema({
     type: Date,
     default: new Date().setDate(new Date().getDate())
   },
-  excerise: {
+  exercises: {
     type: Array
   }
 });
