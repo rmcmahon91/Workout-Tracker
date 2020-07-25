@@ -2,6 +2,7 @@ var mongoose = require("mongoose");
 
 var Schema = mongoose.Schema;
 
+
 // day: new Date().setDate(new Date().getDate()-9),
 // exercises: [
 //   {
