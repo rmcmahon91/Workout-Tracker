@@ -16,6 +16,7 @@ var Schema = mongoose.Schema;
 //   }
 // ]
 
+
 var ExceriseSchema = new Schema({
   day: {
     type: Date,
